@@ -1,13 +1,12 @@
 # Scheduler
-
 This is a priority based scheduler. The main purpose of building this application was a study in multi-threading.
 
-# Running the application
+## Running the application
 
 Main execution class is 
 javac -cp scheduler.jar scheduler2.App
 
-# Sample output
+## Sample output
 
 ```
 [1] Starting scheduler
